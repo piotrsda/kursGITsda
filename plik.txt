@@ -1,4 +1,2 @@
 zmiana pliku
 nowy plik
-
-dodanie nowej, rksperymentalnej funkcjonalności
